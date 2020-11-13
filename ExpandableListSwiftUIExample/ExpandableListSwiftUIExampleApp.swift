@@ -2,7 +2,7 @@
 //  ExpandableListSwiftUIExampleApp.swift
 //  ExpandableListSwiftUIExample
 //
-//  Created by John Codeos on 11/6/20.
+//  Created by John Codeos on 11/12/20.
 //
 
 import SwiftUI
