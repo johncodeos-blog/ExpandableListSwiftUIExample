@@ -36,6 +36,7 @@ struct ListCell: View {
                     .foregroundColor(.white)
             }
         }
+        .background(Color(#colorLiteral(red: 0.6196078431, green: 0.1098039216, blue: 0.2509803922, alpha: 1)))
     }
 }
 
